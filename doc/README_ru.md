@@ -16,7 +16,7 @@
 - Модуль получения информации из справочников кодов регионов РФ и поиск страны по началу штихкода
 
 ``` bash
-git clone https://github.com/SergeyMi37/telebot-plugins
+git clone https://github.com/5erpant1n/telebot-plugins
 cd telebot-plugins
 ```
 
